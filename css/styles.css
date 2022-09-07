@@ -1,0 +1,115 @@
+body{
+    background-color: rgba(255, 255, 255, 0.998);
+    margin:0;
+    font-family: 'Mukat',sans-serif;
+}
+h1{
+    margin-top: 0;
+}
+.info{
+    background-color: rgb(195, 234, 255);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Mukta', sans-serif;
+  
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    padding-top: 77px;
+    right: -217px;
+    top:46px;
+}
+.name{
+    font-family: 'satisfy',cursive;
+    font-size: 286%;
+    color:#66BFBF;
+}
+.profile{
+    padding-top: 10px;
+}
+
+ /* middle container */
+.middle-container{
+    text-align: center;
+    background-color: #a6e6d2;
+}
+h3{
+    color:#11999E;
+}
+a{
+    color: #11999E;
+}
+h2{
+    font-weight: normal;
+    color:#11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 40px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.data-science{
+    width: 50%;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.Web-dev{
+    width: 50%;
+    height: 200px;
+    float: right;
+    margin-left:30px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+    padding: 50px;
+    margin: 50px auto auto auto;
+    background-color: #66BFBF;
+    height: 50px;
+  }
+  .footer-link{
+    margin: 20px;
+    font-weight: 800;
+    color: #11999E;
+  }
+  .copyright{
+    color: #EAF6F6;
+  }
+  hr{
+    background-color: none;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 6px;
+    width: 8% ;
+    margin:50px auto 50px auto;
+}
